@@ -1,0 +1,8 @@
+*.h5
+*.rar
+*.zip
+.vs/
+test/
+train/
+valid/
+yolov5/
